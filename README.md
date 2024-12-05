@@ -37,6 +37,21 @@ When a planet/rover is selected, the app displays detailed information, includin
 ## 📱 Screenshots
 
 
+<img src="https://github.com/user-attachments/assets/65653b31-76e7-43c4-9bb7-ece0c9fc434b" width="250px">
+
+
+<img src="https://github.com/user-attachments/assets/68d782f5-b2fb-44d2-b670-348a3a2116cb" width="250px">
+
+
+<img src="https://github.com/user-attachments/assets/32aac654-ced4-4113-91e3-0418e6d54c15" width="250px">
+
+
+<img src="https://github.com/user-attachments/assets/ea6efe14-5863-4a97-a9c1-814d235028d3" width="250px">
+
+
+<img src="https://github.com/user-attachments/assets/779a427a-0fdc-44bb-a5dd-4148fa5481e1" width="250px">
+
+
 ---
 
 ## 🔧 Installation and Setup
